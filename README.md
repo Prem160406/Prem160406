@@ -1,4 +1,3 @@
 # Welcome to my GitHub profile!
 
-<img src="wukong/wukong.gif" width="256" alt="My Wukong">
-
+![My Wukong](https://raw.githubusercontent.com/Prem160406/Prem160406/main/wukong/wukong.gif)
